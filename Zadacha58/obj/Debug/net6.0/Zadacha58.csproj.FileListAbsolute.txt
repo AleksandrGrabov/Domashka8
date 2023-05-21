@@ -1,0 +1,15 @@
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\bin\Debug\net6.0\Zadacha58.exe
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\bin\Debug\net6.0\Zadacha58.deps.json
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\bin\Debug\net6.0\Zadacha58.runtimeconfig.json
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\bin\Debug\net6.0\Zadacha58.dll
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\bin\Debug\net6.0\Zadacha58.pdb
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\Zadacha58.csproj.AssemblyReference.cache
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\Zadacha58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\Zadacha58.AssemblyInfoInputs.cache
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\Zadacha58.AssemblyInfo.cs
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\Zadacha58.csproj.CoreCompileInputs.cache
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\Zadacha58.dll
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\refint\Zadacha58.dll
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\Zadacha58.pdb
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\Zadacha58.genruntimeconfig.cache
+C:\Users\Intel\OneDrive\Рабочий стол\G-B\Domashka_8\Domashka8\Zadacha58\obj\Debug\net6.0\ref\Zadacha58.dll
